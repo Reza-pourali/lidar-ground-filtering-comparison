@@ -23,8 +23,6 @@ The public repository combines documented real-project outputs with a cleaned an
 
 ### Toronto point cloud - elevation view
 
-![Toronto elevation view](figures/toronto_elevation_view.png)
-
 ### LAStools - fine ground-filter output
 
 ![LAStools fine ground output](figures/lastools_fine_ground.png)
