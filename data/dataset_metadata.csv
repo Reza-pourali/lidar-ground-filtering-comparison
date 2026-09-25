@@ -1,0 +1,3 @@
+dataset,total_points,crs,min_x,min_y,min_z,max_x,max_y,max_z
+KNTU,2143352,not specified in LAS header,998.765991,1997.644653,99.832367,1019.189026,2017.815186,114.560066
+Toronto,2727891,WGS 84 / UTM Zone 17N,630045.30,4833327.24,-672.27,631591.79,4834229.32,303.25
